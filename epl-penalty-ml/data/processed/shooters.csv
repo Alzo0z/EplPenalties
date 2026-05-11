@@ -1,0 +1,139 @@
+Player,Shots,ConvRate,Foot,Continent,Team
+Mohamed Salah,29,0.8275862068965517,Left-Footed,Africa,Liverpool
+Bruno Fernandes,23,0.8260869565217391,Right-Footed,Europe,Manchester United
+Jorginho,22,0.8636363636363636,Right-Footed,Europe,Chelsea
+Harry Kane,20,0.95,Right-Footed,Europe,Tottenham
+Jamie Vardy,20,0.8,Right-Footed,Europe,Leicester City
+James Ward-Prowse,18,0.7222222222222222,Right-Footed,Europe,Southampton
+Erling Haaland,15,1.0,Left-Footed,Europe,Manchester City
+Luka Milivojevic,15,0.8666666666666667,Right-Footed,Europe,Crystal Palace
+Callum Wilson,13,0.9230769230769231,Right-Footed,Europe,Newcastle
+Ivan Toney,12,0.9166666666666666,Right-Footed,Europe,Brentford
+Pierre-Emerick Aubameyang,11,0.7272727272727273,Right-Footed,Africa,Arsenal
+Aleksandar Mitrović,11,0.5454545454545454,Right-Footed,Europe,Fulham
+Bukayo Saka,11,0.9090909090909091,Left-Footed,Europe,Arsenal
+Paul Pogba,11,0.6363636363636364,Right-Footed,Europe,Manchester United
+Wilfried Zaha,11,0.6363636363636364,Right-Footed,Africa,Crystal Palace
+Marcus Rashford,10,0.8,Right-Footed,Europe,Manchester United
+Joshua King,10,0.9,Right-Footed,Europe,Bournemouth
+Danny Ings,10,0.9,Right-Footed,Europe,Southampton
+Alexis Mac Allister,10,0.9,Right-Footed,South America,Brighton
+Gylfi Sigurdsson,10,0.6,Right-Footed,Europe,Everton
+Cole Palmer,9,1.0,Left-Footed,Europe,Chelsea
+Mark Noble,9,0.8888888888888888,Right-Footed,Europe,West Ham
+Neal Maupay,8,0.625,Right-Footed,Europe,Brighton
+Riyad Mahrez,8,0.75,Left-Footed,Africa,Manchester City
+Rúben Neves,8,1.0,Right-Footed,Europe,Wolverhampton Wanderers
+Alexander Isak,8,0.875,Right-Footed,Europe,Newcastle
+Pascal Groß,8,0.625,Right-Footed,Europe,Brighton
+Sergio Agüero,7,0.7142857142857143,Right-Footed,South America,Manchester City
+Troy Deeney,7,0.8571428571428571,Right-Footed,Europe,Watford
+Willian,6,1.0,Right-Footed,South America,Chelsea
+Raheem Sterling,6,0.3333333333333333,Right-Footed,Europe,Manchester City
+Dominic Calvert-Lewin,6,0.8333333333333334,Right-Footed,Europe,Everton
+Alexandre Lacazette,6,0.8333333333333334,Right-Footed,Europe,Arsenal
+Youri Tielemans,6,0.8333333333333334,Right-Footed,Europe,Leicester City
+Anwar El Ghazi,6,1.0,Right-Footed,Europe,Aston Villa
+Ashley Barnes,5,1.0,Right-Footed,Europe,Burnley
+James Milner,5,1.0,Right-Footed,Europe,Liverpool
+Chris Wood,5,1.0,Right-Footed,Australia,Burnley
+João Pedro,5,0.8,Right-Footed,South America,Brighton
+Ollie Watkins,5,0.6,Right-Footed,Europe,Aston Villa
+Carlton Morris,5,1.0,Right-Footed,Europe,Luton Town
+Bryan Mbuemo,5,1.0,Left-Footed,Africa,Brentford
+İlkay Gündoğan,5,0.4,Right-Footed,Europe,Manchester City
+Kevin De Bruyne,5,0.8,Right-Footed,Europe,Manchester City
+teemu pukki,5,1.0,Right-Footed,Europe,Norwich City
+Saïd Benrahma,5,0.8,Right-Footed,Africa,West Ham
+James Maddison,4,0.5,Right-Footed,Europe,Leicester City
+Gabriel Jesus,4,0.75,Right-Footed,South America,Manchester City
+Glenn Murray,4,1.0,Right-Footed,Europe,Brighton
+Heung-min Son,4,0.75,Right-Footed,Asia,Tottenham
+Eden Hazard,4,1.0,Right-Footed,Europe,Chelsea
+Douglas Luiz,4,1.0,Right-Footed,South America,Aston Villa
+Raphina,4,1.0,Left-Footed,South America,Leeds United
+Matheus Pereira,4,1.0,Left-Footed,South America,West Bromwich Albion
+Patrick Bamford,4,0.5,Left-Footed,Europe,Leeds United
+Richarlison,4,1.0,Right-Footed,South America,Everton
+Raúl Jiménez,4,1.0,Right-Footed,Asia,Wolverhampton Wanderers
+Matt Ritchie,3,0.3333333333333333,Left-Footed,Europe,Newcastle
+Manuel Lanzini,3,1.0,Right-Footed,South America,West Ham
+Lucas Paquetá,3,1.0,Left-Footed,South America,West Ham
+Julian Alvarez,3,1.0,Right-Footed,South America,Manchester City
+Declan Rice,3,0.3333333333333333,Right-Footed,Europe,West Ham
+Dominic Solanke,3,0.6666666666666666,Right-Footed,Europe,Bournemouth
+Demarai Gray,3,0.6666666666666666,Right-Footed,North America,Everton
+Morgan Gibbs-White,3,1.0,Right-Footed,Europe,Nottingham Forest
+Raul Jimenez,3,1.0,Right-Footed,Asia,Wolverhampton Wanderers
+Cristiano Ronaldo,3,1.0,Right-Footed,Europe,Manchester United
+Jesse Lingard,3,0.6666666666666666,Right-Footed,Europe,West Ham
+Brennan Johnson,3,0.3333333333333333,Right-Footed,Europe,Nottingham Forest
+Anthony Martial,3,0.6666666666666666,Right-Footed,Europe,Manchester United
+Pablo Sarabia,2,1.0,Left-Footed,Europe,Wolverhampton Wanderers
+Aboubakar Kamara,2,0.5,Right-Footed,Africa,Fulham
+Kai Havertz,2,1.0,Left-Footed,Europe,Arsenal
+Mason Mount,2,1.0,Right-Footed,Europe,Chelsea
+Fabinho,2,1.0,Right-Footed,Europe,Liverpool
+Ivan Cavaleiro,2,0.5,Right-Footed,Europe,Fulham
+Jean-Philippe Mateta,2,1.0,Right-Footed,Europe,Crystal Palace
+Jarrod Bowen,2,0.5,Left-Footed,Europe,West Ham
+Billy Sharp,2,1.0,Right-Footed,Europe,Sheffield United
+rodrigo,2,1.0,Left-Footed,Europe,Leeds United
+Martin Odegaard,2,1.0,Left-Footed,Europe,Arsenal
+Junior Stanislas,2,1.0,Right-Footed,Europe,Bournemouth
+Mateusz Klich,2,1.0,Right-Footed,Europe,Leeds United
+Michail Antonio,2,0.5,Right-Footed,Europe,West Ham
+Nicolas Pépé,2,1.0,Left-Footed,Africa,Arsenal
+Kelechi Iheanacho,2,0.5,Left-Footed,Africa,Leicester City
+Eberechi Eze,2,1.0,Right-Footed,Europe,Crystal Palace
+Jay Rodríguez,2,1.0,Right-Footed,Europe,Burnley
+Oliwver Norwood,2,1.0,Right-Footed,Europe,Sheffield United
+Oli McBurnie,2,1.0,Right-Footed,Europe,Sheffield United
+Dele Alli,2,1.0,Right-Footed,Europe,Tottenham
+Enzo Fernandez,2,0.5,Left-Footed,South America,Chelsea
+Andros Townsend,1,1.0,Left-Footed,Europe,Everton
+Ademola Lookman,1,0.0,Right-Footed,Africa,Fulham
+Aaron Mooy,1,1.0,Right-Footed,Asia,Huddersfield Town
+Andreas Pereira,1,1.0,Right-Footed,South America,Fulham
+Andre Ayew,1,0.0,Left-Footed,Europe,Nottingham Forest
+Anthony Gordon,1,1.0,Right-Footed,Europe,Newcastle
+Charlie Austin,1,0.0,Right-Footed,Europe,Southampton
+Bobby De Cordova-Reid,1,1.0,Right-Footed,North America,Cardiff City
+Ben Brereton Díaz,1,1.0,Right-Footed,South America,Sheffield United
+Beto,1,0.0,Right-Footed,Europe,Everton
+Hee-chan Hwang,1,1.0,Right-Footed,Asia,Wolverhampton Wanderers
+Ayoze perez,1,1.0,Right-Footed,Europe,Leicester City
+Danny Welbeck,1,0.0,Right-Footed,Europe,Brighton
+Darwin Nunez,1,0.0,Right-Footed,South America,Liverpool
+Josh Maja,1,1.0,Right-Footed,Africa,Fulham
+Joe Willock,1,0.0,Right-Footed,Europe,Newcastle
+Joelinton,1,1.0,Right-Footed,South America,Newcastle
+John Lundstram,1,0.0,Right-Footed,Europe,Sheffield United
+Joe Ralls,1,0.0,Left-Footed,Europe,Cardiff City
+James McAtee,1,1.0,Left-Footed,Europe,Sheffield United
+Ismaïla Sarr,1,0.0,Right-Footed,Africa,Watford
+Jacob Bruun Larsen,1,1.0,Right-Footed,Europe,Burnley
+Gerard Deulofeu,1,1.0,Right-Footed,Europe,Watford
+Fabian Schär,1,1.0,Right-Footed,Europe,Newcastle
+Fabio Viera,1,1.0,Left-Footed,Europe,Arsenal
+Fábio Silva,1,1.0,Right-Footed,Europe,Wolverhampton Wanderers
+Leandro Trossard,1,1.0,Right-Footed,Europe,Brighton
+Kenedy,1,0.0,Left-Footed,South America,Newcastle
+Juan Mata,1,1.0,Left-Footed,Europe,Manchester United
+Marko Arnautovic,1,1.0,Right-Footed,Europe,West Ham
+Noni Madueke,1,1.0,Left-Footed,Europe,Chelsea
+Odsonne Edouard,1,1.0,Right-Footed,Europe,Crystal Palace
+Nathaniel Méndez-Laing,1,1.0,Right-Footed,Europe,Cardiff City
+Maxwel Cornet,1,0.0,Left-Footed,Africa,Burnley
+Michael Olise,1,1.0,Left-Footed,Europe,Crystal Palace
+Matheus Cunha,1,1.0,Right-Footed,South America,Wolverhampton Wanderers
+Roberto Pereyra,1,1.0,Right-Footed,South America,Watford
+Roberto Firmino,1,1.0,Right-Footed,South America,Liverpool
+Romelu Lukaku,1,1.0,Left-Footed,Europe,Chelsea
+Rodri,1,1.0,Right-Footed,Europe,Manchester City
+Sander Berge,1,1.0,Right-Footed,Europe,Sheffield United
+Van Aanholt,1,1.0,Left-Footed,Europe,Crystal Palace
+Wesley Moraes,1,0.0,Right-Footed,South America,Aston Villa
+Zeki Amdouni,1,1.0,Right-Footed,Europe,Burnley
+gabriel martinelli,1,1.0,Right-Footed,South America,Arsenal
+victor camarasa,1,1.0,Right-Footed,Europe,Cardiff City

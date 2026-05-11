@@ -1,0 +1,12 @@
+               precision    recall  f1-score   support
+
+     Left Top      0.000     0.000     0.000        13
+   Middle Top      0.182     0.222     0.200         9
+    Right Top      0.190     0.333     0.242        12
+  Left Bottom      0.412     0.333     0.368        42
+Middle Bottom      0.067     0.077     0.071        13
+ Right Bottom      0.214     0.162     0.185        37
+
+     accuracy                          0.214       126
+    macro avg      0.178     0.188     0.178       126
+ weighted avg      0.238     0.214     0.222       126
